@@ -1,0 +1,9 @@
+com\api\base\BaseService.class
+com\api\model\request\CreateUserRequest.class
+com\api\services\LoginService.class
+com\api\model\response\UpdateUserResponse.class
+com\api\services\UserServices.class
+com\api\model\response\CreateUserResponse.class
+com\api\model\response\LoginResponse.class
+com\api\model\request\LoginRequest.class
+com\api\model\request\UpdateUserRequest.class

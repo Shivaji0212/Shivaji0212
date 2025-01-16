@@ -1,0 +1,9 @@
+C:\Users\shivajic\eclipse-workspace\APIAutomationDemo\src\main\java\com\api\base\BaseService.java
+C:\Users\shivajic\eclipse-workspace\APIAutomationDemo\src\main\java\com\api\model\request\CreateUserRequest.java
+C:\Users\shivajic\eclipse-workspace\APIAutomationDemo\src\main\java\com\api\model\request\LoginRequest.java
+C:\Users\shivajic\eclipse-workspace\APIAutomationDemo\src\main\java\com\api\model\request\UpdateUserRequest.java
+C:\Users\shivajic\eclipse-workspace\APIAutomationDemo\src\main\java\com\api\model\response\CreateUserResponse.java
+C:\Users\shivajic\eclipse-workspace\APIAutomationDemo\src\main\java\com\api\model\response\LoginResponse.java
+C:\Users\shivajic\eclipse-workspace\APIAutomationDemo\src\main\java\com\api\model\response\UpdateUserResponse.java
+C:\Users\shivajic\eclipse-workspace\APIAutomationDemo\src\main\java\com\api\services\LoginService.java
+C:\Users\shivajic\eclipse-workspace\APIAutomationDemo\src\main\java\com\api\services\UserServices.java
