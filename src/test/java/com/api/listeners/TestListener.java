@@ -12,8 +12,18 @@ public class TestListener implements ITestListener{
   
 	private static final Logger logger = LogManager.getLogger(TestListener.class);
 	
-	
+	@Override
+	public void onStart(ITestContext context) {
+		Configurator.setRootLevel(Level.INFO);
+		logger.info("On Start ",context.getName() );
+	}
 
+	
+	@Override
+	public void onFinish(ITestContext context) {
+		Configurator.setRootLevel(Level.INFO);
+		logger.info("On Finish ",context.getAllTestMethods());
+	}
     @Override
     public void onTestStart(ITestResult result) {
     	Configurator.setRootLevel(Level.INFO);
